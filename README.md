@@ -2,7 +2,7 @@
 
 ## Visit the project at:
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**URL**: (https://intellect-chain-bloom.lovable.app/login)
 
 
 
