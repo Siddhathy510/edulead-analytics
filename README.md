@@ -1,10 +1,5 @@
 # EduTeach analytics
 
-## Visit the project at:
-
-**URL**: (https://intellect-chain-bloom.lovable.app/login)
-
-
 
 **Use your preferred IDE**
 
